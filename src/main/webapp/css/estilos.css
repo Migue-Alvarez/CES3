@@ -1,0 +1,15 @@
+table {
+    border: chartreuse;
+}
+
+body {
+    background-color: darkgray;
+}
+
+fieldset {
+    border-width: medium;
+}
+
+label {
+    font-size: large;
+}
